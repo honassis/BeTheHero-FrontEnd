@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BeTheHero-FrontEnd/static/css/main.6ec5e36a.chunk.css",
-    "main.js": "/BeTheHero-FrontEnd/static/js/main.7183abe7.chunk.js",
-    "main.js.map": "/BeTheHero-FrontEnd/static/js/main.7183abe7.chunk.js.map",
+    "main.css": "/BeTheHero-FrontEnd/static/css/main.8e886914.chunk.css",
+    "main.js": "/BeTheHero-FrontEnd/static/js/main.f2660488.chunk.js",
+    "main.js.map": "/BeTheHero-FrontEnd/static/js/main.f2660488.chunk.js.map",
     "runtime-main.js": "/BeTheHero-FrontEnd/static/js/runtime-main.79a784f5.js",
     "runtime-main.js.map": "/BeTheHero-FrontEnd/static/js/runtime-main.79a784f5.js.map",
     "static/js/2.9ede9a78.chunk.js": "/BeTheHero-FrontEnd/static/js/2.9ede9a78.chunk.js",
     "static/js/2.9ede9a78.chunk.js.map": "/BeTheHero-FrontEnd/static/js/2.9ede9a78.chunk.js.map",
     "index.html": "/BeTheHero-FrontEnd/index.html",
-    "precache-manifest.8bfaf914954b23cf0ea8a64e0cb6d56a.js": "/BeTheHero-FrontEnd/precache-manifest.8bfaf914954b23cf0ea8a64e0cb6d56a.js",
+    "precache-manifest.48d5d6a9183dbab07a45597d87ae151c.js": "/BeTheHero-FrontEnd/precache-manifest.48d5d6a9183dbab07a45597d87ae151c.js",
     "service-worker.js": "/BeTheHero-FrontEnd/service-worker.js",
-    "static/css/main.6ec5e36a.chunk.css.map": "/BeTheHero-FrontEnd/static/css/main.6ec5e36a.chunk.css.map",
+    "static/css/main.8e886914.chunk.css.map": "/BeTheHero-FrontEnd/static/css/main.8e886914.chunk.css.map",
     "static/js/2.9ede9a78.chunk.js.LICENSE.txt": "/BeTheHero-FrontEnd/static/js/2.9ede9a78.chunk.js.LICENSE.txt",
     "static/media/heroes.png": "/BeTheHero-FrontEnd/static/media/heroes.68aea7c4.png",
     "static/media/logo.svg": "/BeTheHero-FrontEnd/static/media/logo.d34a752f.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.79a784f5.js",
     "static/js/2.9ede9a78.chunk.js",
-    "static/css/main.6ec5e36a.chunk.css",
-    "static/js/main.7183abe7.chunk.js"
+    "static/css/main.8e886914.chunk.css",
+    "static/js/main.f2660488.chunk.js"
   ]
 }
