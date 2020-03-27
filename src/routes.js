@@ -8,10 +8,10 @@ export default function Routes(){
     return(
         <BrowserRouter>
         <Switch>
-        <Route path="/" exact component={Logon}/>
-        <Route path="/register" component={Register}/>          
-        <Route path="/profile" component={Profile}/>          
-        <Route path="/incidents/new" component={NewIncident}/>          
+        <Route path="/BeTheHero-FrontEnd/" exact component={Logon}/>
+        <Route path="/BeTheHero-FrontEnd/register" component={Register}/>          
+        <Route path="/BeTheHero-FrontEnd/profile" component={Profile}/>          
+        <Route path="/BeTheHero-FrontEnd/incidents/new" component={NewIncident}/>          
         </Switch>
         </BrowserRouter>
     )

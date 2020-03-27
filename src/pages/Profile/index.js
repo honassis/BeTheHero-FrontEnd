@@ -11,7 +11,7 @@ export default function Profile(){
                 <img src={logoImg}/>
                 <span>Bem vinda, APAD</span>
                
-                    <Link to="/">
+                    <Link to="/BeTheHero-FrontEnd/">
                 <button type="button">
                     <FiLogOut size={18} color="#4de25d"/>
                 </button>
@@ -19,13 +19,13 @@ export default function Profile(){
                 
             </header>
             <h1>Casos Cadastrados</h1>
-            <Link className="simple-button" to="/incidents/new">
+            <Link className="simple-button" to="/BeTheHero-FrontEnd/incidents/new">
                 Cadastrar novo Caso
             </Link>
            
             <ul>
                 <li>
-                    <strong>CASO</strong>
+                    <strong>CASO AJUDA 1</strong>
                     <p> Caso teste</p>
                     
                     <strong>Descrição</strong>
@@ -38,40 +38,40 @@ export default function Profile(){
                     </button>
                 </li>
                 <li>
-                    <strong>CASO</strong>
+                    <strong>CASO AJUDA 2</strong>
                     <p> Caso teste</p>
                     
                     <strong>Descrição</strong>
                     <p> Descrição teste</p>
                     
                     <strong>Valor</strong>
-                    <p> R$ 120,00</p>
+                    <p> R$ 321,00</p>
                     <button type="button">
                         <FiTrash2 size={20} color="#a8a8b3"/>
                     </button>
                 </li>
                 <li>
-                    <strong>CASO</strong>
+                    <strong>CASO AJUDA 3</strong>
                     <p> Caso teste</p>
                     
                     <strong>Descrição</strong>
                     <p> Descrição teste</p>
                     
                     <strong>Valor</strong>
-                    <p> R$ 120,00</p>
+                    <p> R$ 498,00</p>
                     <button type="button">
                         <FiTrash2 size={20} color="#a8a8b3"/>
                     </button>
                 </li>
                 <li>
-                    <strong>CASO</strong>
+                    <strong>CASO AJUDA 4</strong>
                     <p> Caso teste</p>
                     
                     <strong>Descrição</strong>
                     <p> Descrição teste</p>
                     
                     <strong>Valor</strong>
-                    <p> R$ 120,00</p>
+                    <p> R$ 417,00</p>
                     <button type="button">
                         <FiTrash2 size={20} color="#a8a8b3"/>
                     </button>

@@ -1,5 +1,4 @@
 import React from 'react';
-import './styles.css';
 import logoImg from '../../assets/logo.svg';
 import {FiArrowLeft} from 'react-icons/fi';
 
@@ -12,7 +11,7 @@ export default function NewIncident(){
                 <img src={logoImg} alt="Be The Hero"/>
                 <h1>Cadastrar novo caso</h1>
                 <p>Descreva seu caso detalhadamente para encontrar um herói para resolver isso.</p>
-                <Link className="back-link" to="/profile">
+                <Link className="back-link" to="/BeTheHero-FrontEnd/profile">
                 <FiArrowLeft size={16} color="#59c164"/>
                  Voltar para home
             </Link>

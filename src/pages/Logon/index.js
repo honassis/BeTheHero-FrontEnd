@@ -13,11 +13,11 @@ export default function Logon(){
             <h1>Conecte-se</h1>
             <input placeholder="Seu ID"/>
             
-            <Link to="/profile">
+            <Link to="/BeTheHero-FrontEnd/profile">
             <button className="button" type="submit" >Entrar</button>
             </Link>
             
-            <Link className="back-link" to="/register">
+            <Link className="back-link" to="/BeTheHero-FrontEnd/register">
             <FiLogIn size={16} color="#59c164"/>
             Não tenho cadastro
             </Link>
