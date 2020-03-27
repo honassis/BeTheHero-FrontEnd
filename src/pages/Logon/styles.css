@@ -23,9 +23,10 @@
     color:white;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 812px) {
     .logon-container{
         padding: 12px;
+        height: 100vmax; /*preserva altura total no mobile*/
     }
     .logon-container section.form{
         margin-right: 0px;
