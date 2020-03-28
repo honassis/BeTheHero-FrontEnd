@@ -1,10 +1,10 @@
 # BeTheHero **FRONT-END** - *OminiStack 11.0*
 ![](readme_assets/logo.svg)
 
-## [VISUALIZAR FRONT-END NO GITHUB-PAGES](http://honassis.github.io/BeTheHero-FrontEnd)
+## [VISUALIZAR APP ESTÁTICO NA LOJA EXPO](https://expo.io/@holopz/bethehero)
 
+## [VISUALIZAR PARTE FRONT-END](https://github.com/honassis/BeTheHero-Mobile)
 ## [VISUALIZAR PARTE BACK-END](https://github.com/honassis/BeTheHero-BackEnd)
-## [VISUALIZAR PARTE MOBILE](https://github.com/honassis/BeTheHero-Mobile)
 > contato: honassislopes@gmail.com
 
 ## Sobre o sistema:
@@ -12,18 +12,16 @@
 
 No sistema  é possivel cadastrar ongs, criar casos... pessoas podem visualizar esses casos cadastrados entrar em contato e oferecer apoio.
 
-## Sobre o FrontEnd:
-foi feito todo em React.js, e outros pacotes, como axios e sweetalert, e rotas, é possivel ver apenas as páginas estáticas [**aqui**](http://honassis.github.io/BeTheHero-FrontEnd).
+## Sobre o Mobile:
+foi feito todo em Expo / React Native, e navigations e conta também com scroll inteligente para a visualização de casos, é possivel ver apenas as páginas estáticas [**aqui**](https://expo.io/@holopz/bethehero).
 
-existe 3 branchs do projeto, uma com uma [build estática](https://github.com/honassis/BeTheHero-FrontEnd/tree/gh-pages), também existe [o source da build estática](https://github.com/honassis/BeTheHero-FrontEnd/tree/static) e essa que você está visualizando que é a principal.<br>
+
 
 ## Outras informações: 
-* execute o front com **yarn start** / **npm start**
+* execute o projeto com **expo start**
 * é possivel alterar o endereço da api em **_src/services/api.js_**
 > contato: honassislopes@gmail.com
-![](readme_assets/1.png)
-![](readme_assets/2.png)
-![](readme_assets/3.png)
-![](readme_assets/4.png)
-![](readme_assets/5.png)
+![](readme_assets/1.jpg)
+![](readme_assets/2.jpg)
+![](readme_assets/3.jpg)
 > contato: honassislopes@gmail.com
